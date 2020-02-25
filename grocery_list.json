@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "grocery-list-268603",
+  "private_key_id": "dedcf59cc3552b8c9a2d2b5cbf84f2cefb5ce03d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRW2yqGr145vS/\nTIPhGDWZW3xRpvR4oNtR9EVKShKA8w86iHcix2Rl2chwSlbB4KGJmTPR+DA9fBOF\n6aNCIX8GwTwZycLp/kQm/eue4mUYClzR3Pe5+YKuGySNFhpob/H5sAPUTN/NKLPk\nJ7NhTEei6QNwKbx0ng7pZGcYk9OiXsu5vNvWyWSLW7vYv0JaZsTNw2vBWBySktTE\n8T/aQhpc1DmtaGOFZOdHrhEOxDBipOp1IOq+F4EB1ECPbdBSR9PlvZY4ti0luIaY\nzLh96eO+a2YJuLV7Dbxoo3GbV8GBTvvZzayr+O3a+jasf1LyeVjg8Axbbc+TlDAu\nqjqHM+1bAgMBAAECggEAT5gGlBVee5yy6Bfa+7UMi6VwekqTH1loiJvpy/ilWEkQ\nPRyszpgn32ERBz/8A/G2+G06elV1YarOcVcGLpo1hQfqJZPDetqkZn6bGejQrnci\nGtd7h0UJHdBL8Se6GoKU6Gy2x/wCCimzWsaNOCyb/5+/IuF7OIru+GSnnXx2NYBM\nvEGKQBqjZGNKgxyVqnRrgUxX/Wd3Oi+J+YEXbw6nL4AB04AaOW+/7g2vv6GNjF7W\n/+XvM9IAjkLONo7RAAj7NZ6OwXp+roGA1n6AsNBSeADJDDSFXpMe/ZHU868LAWT7\nEj+2EE6uQE6YaqPpU0zr5O+YG8YGaP3gS0jxEzQAgQKBgQDrvntKRhR5Wjk9fccS\nBtUgNQVndnRuyoqR2zVm4psgkheK78v5ojYdeRqcyVtg8sXkqh54Z6MpHVqkT1Dt\n7ifnkVbRQB+aKocbj//YYb8efy5z5jh9D45Q+ndQp8fSj5kUDZ11Yg5M8Zaa0ljY\nzokKVUXTu7TsFzals03XRkuskQKBgQDjWIaBZZXvmXSJYtQYvvpXO34DiOl3mN1F\naMcOw2UnmBzMIYApWP2e9tXkKu3Kplz+p6fVp10+CgEQlcqxVPBr6ZxGeIOAw7Vu\nkZ9jYmSvYSbTBGoicRUAKEGOVsXonE8SwMaMsLx9ftqpm3jrlEcdP/euK8M5D+eT\ngvOK8+thKwKBgDiofCs6spsD4zPzMdAUUk6+T4ExSASEq08o1ynWFqB6XCwpO+XQ\nZZ8pxwqdnleroYI2nMIlbmJoSquo4HN+xJp0JOB/v9imlfg64KuZunxS5tA2Kadt\nALBXsitxV6Y0mv7l0s0udu9pNOAa4/2fjfIs0m5z86S2Y4zpjjDKFU/xAoGBAKeG\n407UscDmXpaiidJWYJkJUNl/+TJVJbBw/kYlvBOKJqZRhWRynCmYkJLbA3ESWHKa\nzrVE6BPAQXqcNsmn4qZSdgMD6Ttoe/inPEF7DuChgX97wE3y8Fu2TmB6FspK7IXQ\nIj8oOS1s3eqfk2JdWG34ZiYlP218B9SOabKZ/XgTAoGABfBaF8QJTAIw/SXDm3y8\niGjiWZK9vPLO9KIyVUlEpNL+o7Z8ZYSvqiVjh5rremmNDWovyjFMn1wZ3/HhJBev\nWOoILprpadKsKXLMfAGW1VIFhuvcKPeszsMvkKUhUpfV9oMdH3NSV76fRFl+0pEH\nWK+SKmiLDXPD00K8Uan8OVA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ethan-and-kat@grocery-list-268603.iam.gserviceaccount.com",
+  "client_id": "117921046202980601914",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ethan-and-kat%40grocery-list-268603.iam.gserviceaccount.com"
+}
